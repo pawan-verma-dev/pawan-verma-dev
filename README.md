@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**pawan-verma-dev/pawan-verma-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with 2+ years of experience building production web applications using React.js, JavaScript, Redux Toolkit, Node.js, and REST APIs.
 
-Here are some ideas to get you started:
+## Tech Stack
+- React.js
+- JavaScript (ES6+)
+- Redux Toolkit
+- Node.js
+- Express.js
+- SQL
+- Auth0
+- JWT Authentication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Experience
+- 2+ years as Frontend Developer
+- Built fintech, lending, and analytics platforms
+- Worked on production applications used by real users
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/pawan-verma-2b8431187/
+- Email: pawan180394@gmail.com
