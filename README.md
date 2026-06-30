@@ -20,3 +20,6 @@ Frontend Developer with 2+ years of experience building production web applicati
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/pawan-verma-2b8431187/
 - Email: pawan180394@gmail.com
+
+- ### 🚀 Featured Projects
+* **[AI Chat App](https://github.com//pawan-verma-dev/ai-chat-app)**: A real-time conversational AI interface built with Next.js, React, and the Vercel AI SDK, powered by Google's Gemini model.
